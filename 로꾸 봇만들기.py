@@ -4,7 +4,7 @@ import os
 
 client = discord.Client()
 
-token = "Nzk5NTk5MDQ3NzYwODA1ODk4.YAF6pA.PhwdQUrlLehGTFEsqOT5oo6wY-Q"
+token = "Nzk5NTk5MDQ3NzYwODA1ODk4.YAF6pA.nooR-CBArADpnEUsuCo4011LtHU"
 
 @client.event
 async def on_ready():
